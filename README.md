@@ -6,6 +6,10 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day 7 ByvMenuNav  
+adjust slider left mergin
+https://github.com/byvapps/ByvMenuNav/pull/1
+
 * Day 6 SABlurImageView  
 fix typo  
 https://github.com/marty-suzuki/SABlurImageView/pull/44
@@ -31,4 +35,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-33.33% (2/6)
+28.57% (2/7)
