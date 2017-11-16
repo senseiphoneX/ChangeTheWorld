@@ -7,7 +7,7 @@ Everyday send Pull Request.
 
 ### History
 * Day 7 ByvMenuNav  
-adjust slider left mergin -> Marged 🎉
+adjust slider left mergin -> Marged 🎉  
 https://github.com/byvapps/ByvMenuNav/pull/1
 
 * Day 6 SABlurImageView  
