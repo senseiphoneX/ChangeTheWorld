@@ -7,7 +7,7 @@ Everyday send Pull Request.
 
 ### History
 * Day 7 ByvMenuNav  
-adjust slider left mergin
+adjust slider left mergin -> Marged 🎉
 https://github.com/byvapps/ByvMenuNav/pull/1
 
 * Day 6 SABlurImageView  
@@ -35,4 +35,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-28.57% (2/7)
+42.86% (3/7)
