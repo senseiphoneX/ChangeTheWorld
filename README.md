@@ -6,8 +6,8 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
-* Day8 TransitionViewController
-fix typo
+* Day8 TransitionViewController  
+fix typo  
 https://github.com/gliyao/TransitionViewController/pull/7
 
 * Day 7 ByvMenuNav  
@@ -39,4 +39,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-42.86% (3/7)
+37.50% (3/8)
