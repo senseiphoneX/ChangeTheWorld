@@ -6,6 +6,10 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day8 TransitionViewController
+fix typo
+https://github.com/gliyao/TransitionViewController/pull/7
+
 * Day 7 ByvMenuNav  
 adjust slider left mergin -> Marged 🎉  
 https://github.com/byvapps/ByvMenuNav/pull/1
