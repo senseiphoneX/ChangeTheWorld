@@ -6,6 +6,10 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day9 TransitionableTab  
+fix typo  
+https://github.com/Interactive-Studio/TransitionableTab/pull/1
+
 * Day8 TransitionViewController  
 fix typo  
 https://github.com/gliyao/TransitionViewController/pull/7
@@ -39,4 +43,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-37.50% (3/8)
+33.33% (3/9)
