@@ -6,6 +6,10 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day11 thankYouList
+delete unused property
+https://github.com/balenaik/thankYouList/pull/6
+
 * Day10 Emoji-names  
 change log text  
 https://github.com/calda/Emoji-Names/pull/2
@@ -47,4 +51,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-33.33% (3/10)
+27.27% (3/11)
