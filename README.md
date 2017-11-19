@@ -6,8 +6,8 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
-* Day11 thankYouList
-delete unused property
+* Day11 thankYouList  
+delete unused property  
 https://github.com/balenaik/thankYouList/pull/6
 
 * Day10 Emoji-names  
