@@ -6,6 +6,10 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day10 Emoji-names  
+change log text  
+https://github.com/calda/Emoji-Names/pull/2
+
 * Day9 TransitionableTab  
 fix typo  
 https://github.com/Interactive-Studio/TransitionableTab/pull/1
@@ -43,4 +47,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-33.33% (3/9)
+33.33% (3/10)
