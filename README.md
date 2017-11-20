@@ -6,6 +6,10 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day12 PGActionSheet  
+fix button frame size and margins  
+https://github.com/xiaozhuxiong121/PGActionSheet/pull/3
+
 * Day11 thankYouList  
 delete unused property  
 https://github.com/balenaik/thankYouList/pull/6
@@ -51,4 +55,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-27.27% (3/11)
+25.00% (3/12)
