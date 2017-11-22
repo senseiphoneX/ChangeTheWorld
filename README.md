@@ -6,6 +6,10 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day13 ActionSheetController  
+fix readme paragraph  
+https://github.com/SintraWorks/ActionSheetController/pull/3
+
 * Day12 PGActionSheet  
 fix button frame size and margins  
 https://github.com/xiaozhuxiong121/PGActionSheet/pull/3
@@ -55,4 +59,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-25.00% (3/12)
+23.08% (3/13)
