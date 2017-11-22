@@ -6,6 +6,10 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day14 RDGliderViewController-Swift   
+fix button constraints  
+https://github.com/gelemias/RDGliderViewController-Swift/pull/7
+
 * Day13 ActionSheetController  
 fix readme paragraph  
 https://github.com/SintraWorks/ActionSheetController/pull/3
@@ -59,4 +63,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-23.08% (3/13)
+21.43% (3/14)
