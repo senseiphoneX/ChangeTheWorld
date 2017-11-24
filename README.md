@@ -6,12 +6,16 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day15 CircleTimer  
+add reset button  
+https://github.com/appus-studio/CircleTimer/pull/6
+
 * Day14 RDGliderViewController-Swift   
-fix button constraints  
+fix button constraints -> Marged 🎉  
 https://github.com/gelemias/RDGliderViewController-Swift/pull/7
 
 * Day13 ActionSheetController  
-fix readme paragraph  
+fix readme paragraph -> Marged 🎉  
 https://github.com/SintraWorks/ActionSheetController/pull/3
 
 * Day12 PGActionSheet  
@@ -63,4 +67,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-21.43% (3/14)
+33.33% (5/15)
