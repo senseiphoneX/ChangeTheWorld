@@ -6,9 +6,13 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day17 ScrollView  
+fix readme language  
+https://github.com/EricYellow/ScrollView/pull/1
+
 * Day16 CountyPicker  
-replace screenshots  
-https://github.com/SURYAKANTSHARMA/CountyPicker/pull/1  
+replace screenshots -> Marged 🎉  
+https://github.com/SURYAKANTSHARMA/CountyPicker/pull/1 
 
 * Day15 CircleTimer  
 add reset button  
@@ -71,4 +75,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-31.25% (5/16)
+35.29% (6/17)
