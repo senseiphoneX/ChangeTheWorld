@@ -7,7 +7,7 @@ Everyday send Pull Request.
 
 ### History
 * Day18 KeyboardLayoutGuide  
-change button bg color
+change button bg color  
 https://github.com/freshOS/KeyboardLayoutGuide/pull/3
 
 * Day17 ScrollView  
