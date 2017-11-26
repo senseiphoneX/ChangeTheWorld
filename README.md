@@ -6,8 +6,12 @@ But, I believe I can change the world by Pull Request.
 Everyday send Pull Request.
 
 ### History
+* Day18 KeyboardLayoutGuide  
+change button bg color
+https://github.com/freshOS/KeyboardLayoutGuide/pull/3
+
 * Day17 ScrollView  
-fix readme language  
+fix readme language -> Marged 🎉   
 https://github.com/EricYellow/ScrollView/pull/1
 
 * Day16 CountyPicker  
@@ -75,4 +79,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-35.29% (6/17)
+38.89% (7/18)
