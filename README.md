@@ -1,13 +1,18 @@
 # ChangeTheWorld
-i'm not a geek.  
-But, I believe I can change the world by Pull Request.
+I'm not a geek.  
+But, I believe I can change the world by Pull Request.  
+Let's contribution!
 
 ## Rule
 Everyday send Pull Request.
 
 ### History
+* Day19 RevealingSplashView  
+fix heartBeat gif  
+https://github.com/PiXeL16/RevealingSplashView/pull/41
+
 * Day18 KeyboardLayoutGuide  
-change button bg color  
+change button bg color -> Marged 🎉   
 https://github.com/freshOS/KeyboardLayoutGuide/pull/3
 
 * Day17 ScrollView  
@@ -79,4 +84,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-38.89% (7/18)
+42.11% (8/19)
