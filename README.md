@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day20 Tabby  
+add sample.gif  
+https://github.com/hyperoslo/Tabby/pull/26
+
 * Day19 RevealingSplashView  
 fix heartBeat gif  
 https://github.com/PiXeL16/RevealingSplashView/pull/41
@@ -84,4 +88,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-42.11% (8/19)
+40.00% (8/20)
