@@ -7,8 +7,12 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day21 UIWindowTransitions  
+fix readme  
+https://github.com/malcommac/UIWindowTransitions/pull/2  
+
 * Day20 Tabby  
-add sample.gif  
+add sample.gif -> Marged 🎉  
 https://github.com/hyperoslo/Tabby/pull/26
 
 * Day19 RevealingSplashView  
@@ -88,4 +92,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-40.00% (8/20)
+42.86% (9/21)
