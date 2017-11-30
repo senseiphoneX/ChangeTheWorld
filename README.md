@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day22 HHTabBarView  
+add syntax highlight  
+https://github.com/hemangshah/HHTabBarView/pull/2  
+
 * Day21 UIWindowTransitions  
 fix readme  
 https://github.com/malcommac/UIWindowTransitions/pull/2  
@@ -92,4 +96,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-42.86% (9/21)
+40.91% (9/22)
