@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day23 ReactiveDataDisplayManager  
+add syntax highlight  
+https://github.com/LastSprint/ReactiveDataDisplayManager/pull/10
+
 * Day22 HHTabBarView  
 add syntax highlight  
 https://github.com/hemangshah/HHTabBarView/pull/2  
@@ -96,4 +100,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-40.91% (9/22)
+39.13% (9/23)
