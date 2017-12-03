@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day24 CustomTabBarYouTube  
+fix line settings  
+https://github.com/VamshiIITBHU14/CustomTabBarYouTube/pull/2
+
 * Day23 ReactiveDataDisplayManager  
 add syntax highlight  
 https://github.com/LastSprint/ReactiveDataDisplayManager/pull/10
