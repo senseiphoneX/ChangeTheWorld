@@ -16,7 +16,7 @@ add syntax highlight
 https://github.com/LastSprint/ReactiveDataDisplayManager/pull/10
 
 * Day22 HHTabBarView  
-add syntax highlight  
+add syntax highlight -> Marged 🎉  
 https://github.com/hemangshah/HHTabBarView/pull/2  
 
 * Day21 UIWindowTransitions  
@@ -104,4 +104,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-39.13% (9/23)
+41.67% (10/24)
