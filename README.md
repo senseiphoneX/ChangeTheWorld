@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day27 Sheeeeeeeeet  
+add syntax highlight    
+https://github.com/danielsaidi/Sheeeeeeeeet/pull/1
+
 * Day26 Calculator  
 add syntax highlight    
 https://github.com/jokerYellow/Calculator/pull/1
@@ -112,4 +116,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-42.31% (11/2６)
+40.74% (11/27)
