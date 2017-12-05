@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day26 Calculator  
+add syntax highlight    
+https://github.com/jokerYellow/Calculator/pull/1
+
 * Day25 iota-starter-carsharing  
 add syntax highlight    
 https://github.com/ibm-watson-iot/iota-starter-carsharing/pull/6
@@ -24,7 +28,7 @@ add syntax highlight -> Marged 🎉
 https://github.com/hemangshah/HHTabBarView/pull/2  
 
 * Day21 UIWindowTransitions  
-fix readme  
+fix readme -> Marged 🎉  
 https://github.com/malcommac/UIWindowTransitions/pull/2  
 
 * Day20 Tabby  
@@ -108,4 +112,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-40.00% (10/25)
+42.31% (11/2６)
