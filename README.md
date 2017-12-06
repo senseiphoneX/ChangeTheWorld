@@ -7,8 +7,12 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day28 LCRefresh  
+add syntax highlight   
+https://github.com/liutongchao/LCRefresh/pull/6
+
 * Day27 Sheeeeeeeeet  
-add syntax highlight    
+add syntax highlight   -> Marged 🎉    
 https://github.com/danielsaidi/Sheeeeeeeeet/pull/1
 
 * Day26 Calculator  
@@ -116,4 +120,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-40.74% (11/27)
+42.86% (12/28)
