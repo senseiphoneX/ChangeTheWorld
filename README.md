@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day29 PJQuicklyDev2  
+add syntax highlight   
+https://github.com/piaojin/PJQuicklyDev2/pull/1
+
 * Day28 LCRefresh  
 add syntax highlight   
 https://github.com/liutongchao/LCRefresh/pull/6
@@ -120,4 +124,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-42.86% (12/28)
+41.38% (12/29)
