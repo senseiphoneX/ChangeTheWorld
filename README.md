@@ -7,8 +7,12 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
-* Day29 PJQuicklyDev2  
+* Day30 Tip-for-day  
 add syntax highlight   
+https://github.com/Alexiuce/Tip-for-day/pull/1
+
+* Day29 PJQuicklyDev2  
+add syntax highlight -> Marged 🎉    
 https://github.com/piaojin/PJQuicklyDev2/pull/1
 
 * Day28 LCRefresh  
@@ -16,7 +20,7 @@ add syntax highlight 
 https://github.com/liutongchao/LCRefresh/pull/6
 
 * Day27 Sheeeeeeeeet  
-add syntax highlight   -> Marged 🎉    
+add syntax highlight -> Marged 🎉    
 https://github.com/danielsaidi/Sheeeeeeeeet/pull/1
 
 * Day26 Calculator  
@@ -124,4 +128,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-41.38% (12/29)
+43.33% (13/30)
