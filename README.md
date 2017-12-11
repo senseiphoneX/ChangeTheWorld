@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day32 AZTabBarController  
+add syntax highlight   
+https://github.com/azimin/AZTabBarController/pull/6
+
 * Day31 ViewControllerPresentation  
 add syntax highlight   
 https://github.com/Chandlerdea/ViewControllerPresentation/pull/1
@@ -132,4 +136,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-41.94% (13/31)
+40.63% (13/32)
