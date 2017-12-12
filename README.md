@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day33 Swiftlier  
+add syntax highlight   
+https://github.com/drewag/Swiftlier/pull/3
+
 * Day32 AZTabBarController  
 add syntax highlight   
 https://github.com/azimin/AZTabBarController/pull/6
@@ -136,4 +140,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-40.63% (13/32)
+39.39% (13/33)
