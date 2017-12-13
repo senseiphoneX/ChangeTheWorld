@@ -7,8 +7,12 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day34 GrandTime  
+fix readme paragraph  
+https://github.com/DuckDeck/GrandTime/pull/1  
+
 * Day33 Swiftlier  
-add syntax highlight   
+add syntax highlight -> Marged 🎉  
 https://github.com/drewag/Swiftlier/pull/3
 
 * Day32 AZTabBarController  
@@ -140,4 +144,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-39.39% (13/33)
+41.18% (14/34)
