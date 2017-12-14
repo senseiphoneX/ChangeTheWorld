@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day35 CLImagePickerTool  
+add syntax highlight   
+https://github.com/Darren-chenchen/CLImagePickerTool/pull/10
+
 * Day34 GrandTime  
 fix readme paragraph  
 https://github.com/DuckDeck/GrandTime/pull/1  
@@ -144,4 +148,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-41.18% (14/34)
+40.00% (15/35)
