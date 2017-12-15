@@ -7,8 +7,12 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
-* Day35 CLImagePickerTool  
+* Day36 UserTrackingButton  
 add syntax highlight   
+https://github.com/mkko/UserTrackingButton/pull/6
+
+* Day35 CLImagePickerTool  
+add syntax highlight -> Marged 🎉   
 https://github.com/Darren-chenchen/CLImagePickerTool/pull/10
 
 * Day34 GrandTime  
@@ -148,4 +152,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-40.00% (15/35)
+44.44% (16/36)
