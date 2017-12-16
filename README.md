@@ -7,8 +7,12 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
-* Day36 UserTrackingButton  
+* Day37
 add syntax highlight   
+https://github.com/PacktPublishing/Mastering-macOS-Programming/pull/1
+
+* Day36 UserTrackingButton  
+add syntax highlight -> Marged 🎉   
 https://github.com/mkko/UserTrackingButton/pull/6
 
 * Day35 CLImagePickerTool  
@@ -152,4 +156,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-44.44% (16/36)
+45.95% (17/37)
