@@ -7,6 +7,10 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day38 FoodViewer  
+fix readme paragraph  
+https://github.com/aleene/FoodViewer/pull/595
+
 * Day37 Mastering-macOS-Programming  
 add syntax highlight   
 https://github.com/PacktPublishing/Mastering-macOS-Programming/pull/1
@@ -156,4 +160,4 @@ add hidden button
 https://github.com/Juanpe/SkeletonView/pull/5
 
 ### Rate
-45.95% (17/37)
+44.74% (17/38)
