@@ -7,6 +7,12 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day1 Geohash  
+add syntax highlight   
+https://github.com/nh7a/Geohash/pull/3
+
+* Day39 Suspend💀
+
 * Day38 FoodViewer  
 fix readme paragraph  
 https://github.com/aleene/FoodViewer/pull/595
