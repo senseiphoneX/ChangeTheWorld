@@ -7,11 +7,17 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
+* Day1 tpg-offline  
+add syntax highlight   
+https://github.com/RemyDCF/tpg-offline/pull/35
+
+* Day0 Suspend💀
+
 * Day1 Geohash  
 add syntax highlight   
 https://github.com/nh7a/Geohash/pull/3
 
-* Day39 Suspend💀
+* Day0 Suspend💀
 
 * Day38 FoodViewer  
 fix readme paragraph  
@@ -164,6 +170,3 @@ https://github.com/BalestraPatrick/WhatsNew/pull/15
 * Day 1 SkeletonView  
 add hidden button  
 https://github.com/Juanpe/SkeletonView/pull/5
-
-### Rate
-44.74% (17/38)
