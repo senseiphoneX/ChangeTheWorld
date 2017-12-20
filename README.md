@@ -7,7 +7,7 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
-* Day1 tpg-offline  
+* Day1 tpg-offline -> Merged 🎉  
 add syntax highlight   
 https://github.com/RemyDCF/tpg-offline/pull/35
 
@@ -28,11 +28,11 @@ add syntax highlight 
 https://github.com/PacktPublishing/Mastering-macOS-Programming/pull/1
 
 * Day36 UserTrackingButton  
-add syntax highlight -> Marged 🎉   
+add syntax highlight -> Merged 🎉   
 https://github.com/mkko/UserTrackingButton/pull/6
 
 * Day35 CLImagePickerTool  
-add syntax highlight -> Marged 🎉   
+add syntax highlight -> Merged 🎉   
 https://github.com/Darren-chenchen/CLImagePickerTool/pull/10
 
 * Day34 GrandTime  
@@ -40,7 +40,7 @@ fix readme paragraph
 https://github.com/DuckDeck/GrandTime/pull/1  
 
 * Day33 Swiftlier  
-add syntax highlight -> Marged 🎉  
+add syntax highlight -> Merged 🎉  
 https://github.com/drewag/Swiftlier/pull/3
 
 * Day32 AZTabBarController  
@@ -56,7 +56,7 @@ add syntax highlight 
 https://github.com/Alexiuce/Tip-for-day/pull/1
 
 * Day29 PJQuicklyDev2  
-add syntax highlight -> Marged 🎉    
+add syntax highlight -> Merged 🎉    
 https://github.com/piaojin/PJQuicklyDev2/pull/1
 
 * Day28 LCRefresh  
@@ -64,7 +64,7 @@ add syntax highlight 
 https://github.com/liutongchao/LCRefresh/pull/6
 
 * Day27 Sheeeeeeeeet  
-add syntax highlight -> Marged 🎉    
+add syntax highlight -> Merged 🎉    
 https://github.com/danielsaidi/Sheeeeeeeeet/pull/1
 
 * Day26 Calculator  
@@ -84,15 +84,15 @@ add syntax highlight
 https://github.com/LastSprint/ReactiveDataDisplayManager/pull/10
 
 * Day22 HHTabBarView  
-add syntax highlight -> Marged 🎉  
+add syntax highlight -> Merged 🎉  
 https://github.com/hemangshah/HHTabBarView/pull/2  
 
 * Day21 UIWindowTransitions  
-fix readme -> Marged 🎉  
+fix readme -> Merged 🎉  
 https://github.com/malcommac/UIWindowTransitions/pull/2  
 
 * Day20 Tabby  
-add sample.gif -> Marged 🎉  
+add sample.gif -> Merged 🎉  
 https://github.com/hyperoslo/Tabby/pull/26
 
 * Day19 RevealingSplashView  
@@ -100,15 +100,15 @@ fix heartBeat gif
 https://github.com/PiXeL16/RevealingSplashView/pull/41
 
 * Day18 KeyboardLayoutGuide  
-change button bg color -> Marged 🎉   
+change button bg color -> Merged 🎉   
 https://github.com/freshOS/KeyboardLayoutGuide/pull/3
 
 * Day17 ScrollView  
-fix readme language -> Marged 🎉   
+fix readme language -> Merged 🎉   
 https://github.com/EricYellow/ScrollView/pull/1
 
 * Day16 CountyPicker  
-replace screenshots -> Marged 🎉  
+replace screenshots -> Merged 🎉  
 https://github.com/SURYAKANTSHARMA/CountyPicker/pull/1 
 
 * Day15 CircleTimer  
@@ -116,11 +116,11 @@ add reset button
 https://github.com/appus-studio/CircleTimer/pull/6
 
 * Day14 RDGliderViewController-Swift   
-fix button constraints -> Marged 🎉  
+fix button constraints -> Merged 🎉  
 https://github.com/gelemias/RDGliderViewController-Swift/pull/7
 
 * Day13 ActionSheetController  
-fix readme paragraph -> Marged 🎉  
+fix readme paragraph -> Merged 🎉  
 https://github.com/SintraWorks/ActionSheetController/pull/3
 
 * Day12 PGActionSheet  
@@ -144,7 +144,7 @@ fix typo
 https://github.com/gliyao/TransitionViewController/pull/7
 
 * Day 7 ByvMenuNav  
-adjust slider left mergin -> Marged 🎉  
+adjust slider left mergin -> Merged 🎉  
 https://github.com/byvapps/ByvMenuNav/pull/1
 
 * Day 6 SABlurImageView  
