@@ -7,7 +7,7 @@ Let's contribution!
 Everyday send Pull Request.
 
 ### History
-* Day1 tpg-offline -> Merged 🎉  
+* Day1 tpg-offline -> Merged 🎉  
 add syntax highlight   
 https://github.com/RemyDCF/tpg-offline/pull/35
 
